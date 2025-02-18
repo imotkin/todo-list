@@ -1,10 +1,3 @@
-//
-//  To_Do_ListUITests.swift
-//  To Do ListUITests
-//
-//  Created by Ilya Motkin on 18.02.2025.
-//
-
 import XCTest
 
 final class To_Do_ListUITests: XCTestCase {
